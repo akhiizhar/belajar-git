@@ -1,0 +1,22 @@
+DOM (DOCUMENT 0BJECT MODEL)
+
+    const tipedriverEl = document.getElementById("tipedriver");
+    const tanggalEl = document.getElementById("tanggal");
+    const jamEl = document.getElementById("jam");
+    const penumpangEl = document.getElementById("penumpang");
+    const cariEl = document.getElementById("cari");
+    const carResult = document.getElementById("searchResult");
+
+Flow
+
+1. Buat pagenya terlebih dulu (.js)
+2. Buat varibale utnuk menyimpan inputan dari browser
+3. Valuenya mmasuk ke variabel
+4. valuenya dimasukkan ke dalam function
+
+sync = code nya sequential
+async = jalannya codenya paralel
+
+
+spa = single page application
+navigasi nya ga munculin loading di page.
